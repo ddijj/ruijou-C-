@@ -1,13 +1,17 @@
 #include <cstdio>
 #include <iostream>
 #include <string>
+#include <string.h>
 
 using namespace std;
 
 int main() {
     int a;
     int b;
+    printf("hello\n");
+    printf("Please enter x>");
     cin >> a;
+    printf("Please enter y>");
     cin >> b;
     int y = a;
     int i = 0;
