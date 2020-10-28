@@ -8,7 +8,7 @@ using namespace std;
 int main() {
     int a;
     int b;
-    printf("hello　I'm ddijj\n");
+    printf("hello");
     printf("Please enter x>");
     cin >> a;
     printf("Please enter y>");
